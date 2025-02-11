@@ -1,4 +1,4 @@
-module github.com/RoGogDBD/Skilly/protos
+module github.com/RoGogDBD/protos_Skilly
 
 go 1.22
 
